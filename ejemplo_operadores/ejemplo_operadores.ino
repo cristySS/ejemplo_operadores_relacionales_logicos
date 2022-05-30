@@ -38,7 +38,7 @@ if (dinero >200) {
 }
 
         //1      &&        1      if (1)
-if (dinero > 200 && hambre > 192){   //se articulan opradores relacionales con logicos
+if (dinero > 200 && hambre > 192){   //se articulan operadores relacionales con logicos
   comprarTacos();
 }
 
